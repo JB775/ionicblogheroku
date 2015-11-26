@@ -1,0 +1,3 @@
+== README
+
+Rails Backend for Ionic Blog App - Testing out linking Ionic Framework to a Rails Backend 
